@@ -8,7 +8,7 @@ let endpoint1;
 let endpoint2;
 let dragging = null;
 
-// 👉 Change here to test
+// Change here to test
 let mode = "circle";        // "line" or "circle"
 let lineAlgo = "bresenham";     // "dda" or "bresenham"
 
